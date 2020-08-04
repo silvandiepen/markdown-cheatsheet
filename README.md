@@ -3,13 +3,20 @@
 
 ## Basic Syntax
 
-| Element | Markdown Syntax | Example
-|---|---|---|
-| Heading | ```# H1
-## H2
-### H3
-```| # H1 # H2 # H3 |
-| Bold | ```** Bold ** 
+### Heading
+
+# H1 
+```# H1```
+# H2 
+```# H2```
+# H3
+```# H3```
+
+### Bold
+
+**Bold**
+
+```
+** Bold ** 
 __bold__
-```| ** Bold ** 
-__bold__ |
+```
