@@ -58,9 +58,9 @@ _Italic_
 - Third item
 
 ```markdown
-- First item
-- Second item
-- Third item
+    - First item
+    - Second item
+    - Third item
 ```
 
 ---
@@ -68,7 +68,7 @@ _Italic_
 `code`
 
 ```markdown
-`code`
+    `code`
 ```
 
 ```
@@ -76,8 +76,8 @@ code block
 ```
 
 ```markdown
-```
-code block
-```
+    ```
+    code block
+    ```
 ```
 
