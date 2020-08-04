@@ -1,20 +1,32 @@
 # markdown-cheatsheet
 
 
-## Basic Syntax
+## Headings
 
 # H1 
 
-# H2 
+## H2 
 
-# H3
+### H3
+
+#### H4
+
+##### H5
+
+###### H6
 
 ```markdown
 # H1
-# H2
-# H3
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 ```
 
+
+
+## Markup
 ---
 
 **Bold**
@@ -38,6 +50,10 @@ _Italic_
 ```markdown
 > Blockquote
 ```
+
+
+
+## Lists
 ---
 
 1. First item
@@ -62,6 +78,10 @@ _Italic_
     - Second item
     - Third item
 ```
+
+
+
+## Code
 
 ---
 
