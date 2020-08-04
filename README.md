@@ -27,7 +27,7 @@
 
 
 ## Markup
----
+
 
 **Bold**
 
@@ -54,7 +54,6 @@ _Italic_
 
 
 ## Lists
----
 
 1. First item
 2. Second item
@@ -83,15 +82,14 @@ _Italic_
 
 ## Code
 
----
-
 `code`
 
 ```markdown
     `code`
 ```
+---
 
-```
+```markdown
 code block
 ```
 
@@ -100,4 +98,12 @@ code block
     code block
     ```
 ```
+```
 
+## Rule
+
+---
+
+```
+---
+```
