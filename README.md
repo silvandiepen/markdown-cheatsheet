@@ -15,12 +15,15 @@
 # H3
 ```
 
+---
+
 **Bold**
 
 ```markdown
 **Bold** 
 __Bold__
 ```
+---
 
 **Italic**
 
@@ -28,12 +31,14 @@ __Bold__
 *Italic* 
 _Italic_
 ```
+---
 
 > Blockquote
 
 ```markdown
 > Blockquote
 ```
+---
 
 1. First item
 2. Second item
@@ -45,6 +50,7 @@ _Italic_
 3. Third item
 ```
 
+---
 
 
 - First item
@@ -57,6 +63,8 @@ _Italic_
 - Third item
 ```
 
+---
+
 `code`
 
 ```markdown
@@ -68,8 +76,8 @@ code block
 ```
 
 ```markdown
-\`\`\`
+```
 code block
-\`\`\`
+```
 ```
 
