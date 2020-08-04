@@ -98,7 +98,6 @@ code block
     code block
     ```
 ```
-```
 
 ## Rule
 
